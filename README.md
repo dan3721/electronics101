@@ -9,3 +9,5 @@ Capturing my adventures in basic electronics for posterity.
 
 # Tutorials
 [Serial to Parallel Shifting-Out with a 74HC595](54hc164/Arduino-ShiftOut.pdf) - [reference](https://www.arduino.cc/en/Tutorial/ShiftOut)
+[How Digital Clocks Work](https://electronics.howstuffworks.com/gadgets/clocks-watches/digital-clock5.htm)
+
