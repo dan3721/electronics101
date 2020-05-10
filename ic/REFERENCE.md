@@ -25,3 +25,18 @@ MOTOROLA
 ## SN74HC14N - IC INVERTER SCHMITT 6CH 14DIP
 Texas Instruments
 [datasheet](ic/SN74HC14N/sn74hc14.pdf)
+
+# 7 Segment Display
+
+## MAN54A
+Monsanto
+[datasheet](ic/MAN54A/MAN80A_Monsanto.pdf)
+Green Common Cathode; Right Hand Decimal
+
+## HDSP-5533
+[datasheed](ic/MAN54A/HDSP-5533/HDSP-5533.pdf)
+Red Common Cathode; Right Hand Decimal
+
+# ELS-321HDB
+[datasheet](ic/ELS-321HDB/ELS-321HDB.pdf)
+Red Common Cathode; Right Hand Decimal
